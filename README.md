@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
@@ -37,6 +37,11 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YutoSekiguchi" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&row=1&column=7&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&row=1&column=7&theme=dracula" />
+</a>
+
