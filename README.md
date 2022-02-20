@@ -37,3 +37,4 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi)](https://github.com/anuraghazra/github-readme-stats)
