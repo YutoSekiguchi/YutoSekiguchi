@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
 
-ギョギョぎょ草生やしてこ!?!?!?!?!?!?!?!
+ギョギョぎょ草生やしてこ!?!?!?!?!?!?!?!?
 合宿なう
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
