@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&layout=compact)
 
 ギョギョぎょ草生やしてこ!?!?!?!?!?!?!
 <h3 align="center">Languages and Tools:</h3>
