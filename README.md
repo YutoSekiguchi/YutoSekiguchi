@@ -2,7 +2,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi)] -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YutoSekiguchi/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=dark_lover)]
+![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=dark_lover)
 
 ギョギョぎょ草生やしてこ!!?!?
 <h3 align="center">Languages and Tools:</h3>
@@ -31,7 +31,3 @@
 
 
  -->
- 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&row=1&column=7&theme=dracula" />
-</a>
