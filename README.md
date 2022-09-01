@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&langs_count=8&layout=compact&theme=tokyonight&)](https://github.com/YutoSekiguchi)
-[![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YutoSekiguchi/)
-![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=dark_lover)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&langs_count=8&layout=compact)](https://github.com/YutoSekiguchi)
+[![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/YutoSekiguchi/)
+![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi)
 
 ギョギョぎょ草生やしてこ!?!?
 <h3 align="center">Languages and Tools:</h3>
