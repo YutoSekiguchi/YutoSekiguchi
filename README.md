@@ -5,7 +5,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/YutoSekiguchi/)
 ![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=oldie)
 
-ギョギョ草生やしてこ!?!?⁉︎
+ギョギョ草生やしてこ!?
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
