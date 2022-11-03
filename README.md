@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&langs_count=8&layout=compact)](https://github.com/YutoSekiguchi)
 [![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/YutoSekiguchi/)
@@ -27,4 +28,7 @@
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
 </p>
+
+
+
 
