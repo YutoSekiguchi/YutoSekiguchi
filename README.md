@@ -5,7 +5,6 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/YutoSekiguchi/)
 ![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi)
 
-
 ギョギョ草生やしてこ-!
 
 
