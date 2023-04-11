@@ -1,9 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&langs_count=8&layout=compact)](https://github.com/YutoSekiguchi)
-[![github stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&hide=contribs&count_private=true&show_icons=true)](https://github.com/YutoSekiguchi/)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&theme=merko&langs_count=8&layout=compact)](https://github.com/YutoSekiguchi)
+![Carlos Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&show_icons=true&theme=merko&hide_border=true&count_private=true&card_width=494px)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=merko&hide_border=true&border_radius=5)
 ![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi)
 
 ギョギョ草生やしてこ-!
