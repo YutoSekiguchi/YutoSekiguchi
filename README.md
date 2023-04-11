@@ -2,6 +2,7 @@
 
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" > 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Yuto+Sekiguchi;I'm+from+Japan;)
+<hr>
 
 <!--Graph-->
 ![YutoSekiguchi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YutoSekiguchi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
@@ -20,10 +21,10 @@
 
 <hr>
 
-<img align='left' height='200' src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
+<img align='left' height='300' src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
 
 <br>
-<h2>Skills</h2>
+<h1>Skills</h1>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
