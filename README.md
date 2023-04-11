@@ -1,5 +1,7 @@
 <!--Title @bastndev-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+Yuto+Sekiguchi;I'm+from+Japan;Welcome!)
+
+### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" > 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Yuto+Sekiguchi;I'm+from+Japan;)
 
 <!--Graph-->
 ![YutoSekiguchi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YutoSekiguchi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
