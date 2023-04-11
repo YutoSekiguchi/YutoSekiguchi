@@ -1,33 +1,30 @@
 ![](https://komarev.com/ghpvc/?username=YutoSekiguchi)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi&theme=merko)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&show_icons=true&theme=merko&hide_border=true&count_private=true)
+![GitHub Status](https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=merko&hide_border=true&border_radius=5)
+<br>
+[![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YutoSekiguchi&bg_color=0d0c0d&color=6acb1a&line=1cb5e9&point=f5f5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&theme=merko&langs_count=8&layout=compact)](https://github.com/YutoSekiguchi)
-![Carlos Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&show_icons=true&theme=merko&hide_border=true&count_private=true&card_width=494px)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=merko&hide_border=true&border_radius=5)
 ![trophy](https://github-profile-trophy.vercel.app/?username=YutoSekiguchi)
 
-ギョギョ草生やしてこ-!
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> 
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
+
+<hr>
+
+<img align='left' height='200' style="margin-left:20px; margin-bottom:20px" src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
+
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,html,css,sass,tailwind,js,ts,materialui,react,vue,nodejs,nuxtjs,nextjs,nginx" />
+  </a>
 </p>
-
-
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,django,fastapi,mysql,go,ruby,rails,php,vite,docker,firebase,dart,flutter" />
+  </a>
+</p>
