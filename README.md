@@ -14,8 +14,8 @@
 </div>
 <br>
 <div align="center">  
-  <img width="28%" src="https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=algolia&hide_border=true&border_radius=5" />
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=algolia&column=-1" />
+  <img width="54%" src="https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=algolia&hide_border=true&border_radius=5" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=algolia&row=2&column=4" />
 </div>
 <br>
 
