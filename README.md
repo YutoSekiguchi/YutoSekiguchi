@@ -4,6 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Yuto+Sekiguchi;I'm+from+Japan;)
 <hr>
 
+
 <!--Graph-->
 ![YutoSekiguchi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YutoSekiguchi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 <br>
