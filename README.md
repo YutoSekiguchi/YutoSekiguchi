@@ -5,7 +5,6 @@
 <hr>
 
 <!--Graph-->
-![YutoSekiguchi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YutoSekiguchi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 <br>
 <!--Skill And More Information--> 
 <div align="center">  
@@ -18,7 +17,6 @@
   <img width="45%" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=algolia&row=2&column=4" />
 </div>
 <br>
-
 <hr>
 
 <img align='left' height='300' src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
