@@ -3,21 +3,21 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Yuto+Sekiguchi;I'm+from+Japan;)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoSekiguchi&theme=synthwave)
 
 <hr>
 <!--Graph-->
 <br>
 <!--Skill And More Information--> 
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoSekiguchi&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=YutoSekiguchi&show_icons=true&count_private=true&hide_border=true&theme=synthwave" alt="Bastian Dev github stats" /> 
 </div>
-<br>
+  <br>
 <div align="center">  
-  <img width="54%" src="https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=algolia&hide_border=true&border_radius=5" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=algolia&row=2&column=4" />
-</div>
-<br>
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=YutoSekiguchi&theme=synthwave&hide_border=true&border_radius=5" />
+    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=YutoSekiguchi&theme=synthwave&row=2&column=4" />
+  </div>
 <hr>
 
 <img align='left' height='300' src='https://raw.githubusercontent.com/MosFazli/MosFazli/main/assets/programmer.gif' alt='Skills'>
